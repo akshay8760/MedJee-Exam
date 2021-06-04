@@ -1,0 +1,14 @@
+.content{
+       
+        margin-bottom: 200px;
+    }
+
+.image{
+    margin-bottom: 15px;
+}
+
+h2:hover{
+    cursor: pointer;
+    font-size: 33px;
+    transition: 0.5s;
+}

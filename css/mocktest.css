@@ -1,0 +1,93 @@
+#after_submit{
+    visibility: hidden;
+}
+
+h2,h3{
+    text-align: center !important;
+}
+
+.instruction{
+    border: 1px solid white;
+    background-color: rgb(207, 202, 202, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.testbox{
+    border: 1px solid white;
+    background-color: rgba(142, 187, 240, 0.164);
+    border-radius: 20px;
+    padding: 40px;
+    
+}
+
+.question-number{
+    font-size: 20px;
+    color: #009688;
+    font-weight: 600;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 10px;
+    line-height: 25px;
+}
+
+.question-text{
+    font-size: 22px;
+    color: #000000;
+    line-height: 28px;
+    font-weight: 400px;
+    padding: 10px 0px;
+    padding-bottom: 25px;
+    margin: 0;
+}
+
+.option-container{
+    padding: 13px;
+    background-color: #cccccc7e;
+    line-height: 22px;
+    color: #000000;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#answerbox{
+    border: 1px solid rgb(22, 21, 21);
+    background-color: rgba(5, 255, 38, 0.1);
+    border-radius: 20px;
+    padding: 20px;
+    visibility: hidden;
+
+}
+
+.btntry{
+    font-size: 16px;
+    padding: 10px 30px;
+    background-color: rgba(228, 76, 17, 0.979);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    display: inline;
+    margin-right: 15px;
+}
+.btnhome{
+    font-size: 16px;
+    padding: 10px 30px;
+    background-color: rgba(0, 128, 0, 0.815);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    display: inline;
+}
+.bt{
+    text-decoration: none;
+
+    color: white;
+}
+
+#button{
+    margin-left: 200px;
+
+}

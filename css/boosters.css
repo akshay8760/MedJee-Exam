@@ -1,0 +1,46 @@
+.ph{
+    font-size: 20px;
+}
+
+p{
+    font-size: 12px;
+}
+
+.boostershead{
+    
+    padding: 8px;
+    border-radius: 10px;
+}
+
+li{
+    font-size: 18px;
+    font-style: italic;
+}
+
+.boosterbox{
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bbox{
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     max-width: 100%;
+     color: inherit;
+     background-image: radial-gradient( circle farthest-corner at -0.6% 44.4%,  
+                        rgba(142,252,152,1) 0%, rgba(107,214,250,1) 90% );
+                        margin-bottom: 60px !important;
+     padding: 8px;
+     border-radius: 10px;
+}
+
+h4{
+    
+    font-weight: bold !important;
+}
+
+h4:hover{
+    cursor: pointer;
+    text-shadow: cornflowerblue;
+    font-size:22px ;
+}

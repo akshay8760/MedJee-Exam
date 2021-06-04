@@ -1,0 +1,87 @@
+
+ .logo
+     {
+         margin-top: 5px;
+        margin-bottom: 5px;
+         cursor: pointer;
+         float: left;
+         
+     }
+     .medjee{
+         margin-top:57px;
+     }
+ div.salogan
+     {
+         margin-top: -60px;
+         margin-bottom: -60px;
+         cursor: pointer;
+         margin-right: -20px;
+         
+     }
+ div#myNavbar.collapse.navbar-collapse{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px !important;
+ }
+ 
+ .secnav{
+     background-color: black !important;
+ }
+ 
+ .ele
+     {
+     font-weight: bolder;
+     font-size: 20px;
+     margin-right:15px;
+     margin-left: 15px; 
+     }
+     
+
+.ele:hover{
+    font-size: 23px;
+    transition: 0.5s;
+}
+
+.dele{
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.dele:hover{
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+/* .dropdown-item{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px !important;
+  }
+
+  .dropdown-menu{
+      width: 240px;
+      border-radius: 50px;
+  } */
+
+
+  .notification .badge {
+    position: absolute;
+    top: 2px;
+    right: -7px;
+    padding: 5px 8px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  }
+
+  @media screen and (max-width: 480px) {
+    .notification .badge {
+        position: absolute;
+        top: 0px;
+        right: 200px;
+        padding: 5px 8px;
+        border-radius: 50%;
+        background: red;
+        color: white;
+      }
+    
+  }

@@ -1,0 +1,52 @@
+p{
+    font-size: 20px;
+}
+
+.textbookhead{
+   
+    border-radius: 10px;
+    padding: 8px;
+  
+}
+
+.bookbox{
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bkbox{
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     max-width: 100%;
+     color: inherit;
+     background-color: #FAACA8;
+     background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+     padding: 8px;
+     margin-bottom: 60px !important;
+     border-radius: 10px;
+}
+
+.content{
+       
+    margin-bottom: 200px;
+}
+
+h4{
+    
+    font-weight: bold !important;
+}
+
+h4:hover{
+    cursor: pointer;
+    text-shadow: cornflowerblue;
+    font-size:17px ;
+}
+
+.bnumber{
+    font-size: 90px;
+}
+
+.bnumber:hover{
+    cursor: pointer;
+    font-size: 85px;
+}

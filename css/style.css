@@ -1,0 +1,90 @@
+
+
+@media screen and (max-width: 480px) {
+  .container{
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .content{
+    margin-bottom: 200px;
+   
+   }
+}
+
+.content{
+   font-size: 17px;
+   }
+
+.indbox{
+  padding: 8px;
+  border-radius: 10px;
+  margin-bottom: 30px !important;
+}
+
+
+
+/*box*/
+
+.headbox{
+  text-align: center;
+  
+}
+
+.hbox{
+  background-image: linear-gradient( 180.3deg,  rgba(214,224,255,1) 37.2%, rgba(254,168,168,1) 137.3% );
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 60px;
+}
+
+
+
+.button1{
+  width: 100px;
+  height: 40px;
+  
+}
+
+.button1:hover{
+  cursor: pointer;
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.img:hover{
+  transition: 0.5s;
+  cursor: pointer;
+  width: 105px;
+  height: 105px;
+}
+
+h4{
+  cursor: pointer;
+}
+
+p{
+  cursor: pointer;
+}
+
+
+
+
+.movement{
+  /* margin-top: 0px !important;
+  background-image: radial-gradient( circle 788px at 0.7% 3.4%,  rgba(219, 168, 202, 0.411) 0%, rgba(255,255,255,1) 90% );*/
+  border: 1px solid rgba(175, 170, 170, 0.418);
+  border-radius: 5px; 
+  
+}
+
+.update{
+  background-color:rgba(175, 170, 170, 0.418);
+  margin-top: 0px !important;
+  color: red;
+  padding: 5px;
+}
+

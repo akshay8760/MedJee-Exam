@@ -1,0 +1,51 @@
+/*book style box*/
+
+.stylesubjects{
+  margin-bottom: 30px;
+  border-radius: 10px;
+  background-image: radial-gradient( circle 1023px at 3.1% 6.9%,  rgba(255,255,255,0.5) 0%, rgba(205,40,83,0.5) 74.9% );
+  
+  }
+  
+  .stylebook11{
+    margin-bottom: 30px;
+    border-radius: 10px;
+    background-image: radial-gradient( circle 867px at -5.8% 1.8%,  rgba(255,255,255,0.3) 0%, rgba(7,0,216,0.3) 100.3% );
+  }
+
+  .stylebook12{
+    margin-bottom: 30px;
+    border-radius: 10px;
+    background-image: radial-gradient( circle 867px at -5.8% 1.8%,  rgba(255,255,255,0.3) 0%, rgba(202, 216, 0, 0.3) 100.3% );
+  }
+
+  .stylebook10{
+    margin-bottom: 30px;
+    border-radius: 10px;
+    background-image: radial-gradient( circle 867px at -5.8% 1.8%,  rgba(255, 255, 255, 0.3) 0%, rgba(12, 231, 66, 0.3) 100.3% );
+  }
+
+
+  h3:hover{
+      cursor: pointer;
+      font-size: 25px;
+  }
+
+  h2:hover{
+    cursor: pointer;
+    font-size: 35px;
+}
+
+h3{
+  font-weight: bold;
+  color: greenyellow;
+}
+
+li{
+  list-style: none;
+}
+
+li:hover{
+  cursor: pointer;
+  font-size: 18px;
+}

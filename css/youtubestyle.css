@@ -1,0 +1,49 @@
+td{
+    padding: 20px;
+}
+input{
+    width: 350px;
+    height: 30px;
+    border:0.5px solid rgba(128, 128, 128, 0.486);
+    border-radius: 5px;
+}
+
+marquee{
+    color: blue;
+}
+
+textarea{
+    width: 350px;
+    border:0.5px solid rgba(128, 128, 128, 0.486);
+    border-radius: 5px;
+}
+
+.det{
+    font-size: 20px;
+
+}
+
+.send{
+    border: 0;
+    background-color: rgba(0, 0, 255, 0.678);
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+}
+.send:hover{
+    background-color: rgba(128, 128, 128, 0.493);
+    color: black;
+
+}
+
+p{
+    color: red;
+    font-size: 16px;
+}
+td{
+    padding: 20px;
+}

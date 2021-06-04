@@ -1,0 +1,48 @@
+.quizhead{
+    
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.quizbox{
+    text-align: center;
+}
+
+.box{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(50,172,109,0.6) 0%, rgba(209,251,155,1)
+     100.2% );
+    
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 60px;
+}
+
+
+
+.button1{
+    width: 100px;
+    height: 40px;
+    
+}
+
+.button1:hover{
+    cursor: pointer;
+    transition-duration: 0.4s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.img:hover{
+    transition: 0.5s;
+    cursor: pointer;
+    width: 105px;
+    height: 105px;
+}
+
+h4{
+    cursor: pointer;
+}
+
+p{
+    cursor: pointer;
+}
